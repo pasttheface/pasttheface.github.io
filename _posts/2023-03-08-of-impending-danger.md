@@ -5,6 +5,7 @@ permalink: /of-impending-danger/
 tags:
   - trauma
   - welcome
+  - identity
 ---
 That feeling in your stomach, a tightness in your abdomen, which seems to weigh a ton, while excited molecules of adrenalin play baseball in your intestines. That! That's the state of "impending danger" that's inhabited my lower half for the last 2-3 weeks at various, unspectacular moments.
 
