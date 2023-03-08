@@ -7,9 +7,9 @@ baseurl:     ""
 url:         "https://pasttheface.github.io"
 date_format: "%b %-d, %Y"
 header_pages:
- - about.md
- - archive.md
- - contact.html
+ - pages/about.md
+ - pages/archive.md
+ - pages/contact.html
 
 # Google services
 google_verification:
