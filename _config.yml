@@ -8,6 +8,7 @@ url:         "https://pasttheface.github.io"
 date_format: "%b %-d, %Y"
 header_pages:
  - about.md
+ - archive.md
  - contact.html
 
 # Google services
@@ -21,7 +22,7 @@ bing_verification:
 
 # Optional features
 animated:             false
-show_related_posts:   false
+show_related_posts:   true
 show_post_footers:    false
 show_social_icons:    false
 ajaxify_contact_form: false
@@ -32,7 +33,7 @@ enable_anchorjs: false
 post_preview_image: false
 
 # Custom developed features
-show_tags:            true
+show_tags: true
 
 # Facebook Page integration
 # (for instant articles and other stuff)
