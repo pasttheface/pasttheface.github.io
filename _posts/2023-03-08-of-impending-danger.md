@@ -7,7 +7,7 @@ tags:
   - welcome
   - identity
 ---
-That feeling in your stomach, a tightness in your abdomen, which seems to weigh a ton, while excited molecules of adrenalin play baseball in your intestines. That! That's the state of "impending danger" that's inhabited my lower half for the last 2-3 weeks at various, unspectacular moments.
+That feeling in your stomach, a tightness in the abdomen, which seems to weigh a ton, while electrified molecules of adrenalin play baseball in your intestines. That! That's the state of "impending danger" that's inhabited my lower half for the last 2-3 weeks at various, unspectacular moments. The "why" is a long story, my story - here.
 
 On a more positive note (because intros should be positive, right?) - Welcome! Join me here, if you like, on journey to the self, past and present, sad and happy, anxious and calm, geeky and fun on occasion, and hopefully is some way meaningful!?
 
