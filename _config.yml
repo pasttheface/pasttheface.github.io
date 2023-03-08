@@ -1,6 +1,6 @@
 # Site settings
 title:       Past the Face
-email:       pasttheface@proton.me
+email:       f/xzbqvpwn
 author:      pasttheface
 description: "A journal that invites you to look beyond surface appearances in life. Join me on an exploration of self, identity, accompanied by depression and the anxiety that comes with it."
 baseurl:     ""
@@ -22,7 +22,7 @@ bing_verification:
 
 # Optional features
 animated:             false
-show_related_posts:   true
+show_related_posts:   false
 show_post_footers:    false
 show_social_icons:    false
 ajaxify_contact_form: false
