@@ -4,4 +4,4 @@ On a more positive note (because intros should be positive, right?) - Welcome! J
 
 Being too cowardly to "come out" and say "this is me, this is who I am", my ramblings are anonymous for now. Maybe that'll change as I grow - who knows. I will reveal some things about myself, most will be autobiographical, but some may be fictious.
 
-I have always loved to read "About" pages. It helps me to put what I'm reading into context. It's a bit like when you first meet someone and make that automatic, split-second judgement about who and what they are like. Often though, as you get to know them better, you'll revise that first impression. Admittedly, we all more complex than we give each other credit for, and that we let other's see at face value.
+I have always loved to read "About" pages. It helps me to put what I'm reading into context. It's a bit like when you first meet someone and make that automatic, split-second judgement about who and what they are. Often though, as you get to know them, you'll refine and revise that. Admittedly, we are all more complex than we like to acknowledge.
