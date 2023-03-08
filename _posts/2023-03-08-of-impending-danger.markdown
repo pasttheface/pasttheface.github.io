@@ -1,7 +1,7 @@
 ---
 layout: post
-title: On impending danger
-permalink: /on-impending-danger/
+title: Of impending danger
+permalink: /of-impending-danger/
 tags:
   - trauma
   - welcome
