@@ -50,6 +50,9 @@ facebook_comments:
 facebook_appid:
 facebook_comments_number: 10
 
+# Github Discussion as Comments
+github_comments: true
+
 # Social icons
 github_username:
 reddit_username:
